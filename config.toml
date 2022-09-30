@@ -80,6 +80,7 @@ weight = 10
 identifier = "CV" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "https://drive.google.com/file/d/1zfBzCun-KH6xp61AVJPdnkTjcaXdC_WF/view?usp=sharing"  
+target = "_blank"
 weight = 14 
 
 [[menu.main]]
