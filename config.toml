@@ -85,7 +85,7 @@ weight = 14
 [[menu.main]]
 identifier = "blog" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/research/" 
+url = "/blog/" 
 weight = 16 
 
 [[menu.main]]
@@ -97,7 +97,7 @@ weight = 25
 [[menu.main]]
 identifier = "about" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/teaching/" 
+url = "/about/" 
 weight = 30 
 
 
