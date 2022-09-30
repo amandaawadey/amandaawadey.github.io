@@ -79,7 +79,11 @@ weight = 10
 [[menu.main]]
 identifier = "CV" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
+<<<<<<< HEAD
 url = "www.google.com"  
+=======
+url = "https://drive.google.com/file/d/1KilbK7__ZhwIwZDzY9aeSmJj8hMXC-cO/view?usp=sharing" 
+>>>>>>> parent of e10ea26 (cv and abstract update)
 weight = 14 
 
 [[menu.main]]
@@ -91,7 +95,11 @@ weight = 16
 [[menu.main]]
 identifier = "JMP" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
+<<<<<<< HEAD
 url = "https//drive.google.com/file/d/1zI3mQukOhSEfswe-pke1ajMIZz6uUlo8/view?usp=sharing" 
+=======
+url = "https://drive.google.com/file/d/1tDHJziyGIWnNjA0Hhgpn4SBSxkFj8UP-/view?usp=sharing" 
+>>>>>>> parent of e10ea26 (cv and abstract update)
 weight = 25 
 
 [[menu.main]]
