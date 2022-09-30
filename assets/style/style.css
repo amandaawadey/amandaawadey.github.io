@@ -3,3 +3,7 @@
 /* body {
 	background-color: white!important;
 } */
+
+.max-w-xl {
+	max-width: 70rem !important;
+}
