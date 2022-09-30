@@ -29,7 +29,7 @@ hero_media = "/img/newheadshot.jpg"
 
 My primary research interests are in Development Economics, particularly on education and factors that hinder the growth of micro, small, and medium-sized firms in middle and low income countries.  
 
-My work currently focuses on education reforms' intended and unintended impact on human capital development and educational attainment. In my job market paper, I study the unintended effect of reforms resulting in increased cohort size and its subsequent impact on performance at the end of high school and the college education market. 
+My work currently focuses on the intended and unintended impact of education reforms on human capital development and educational attainment. In my job market paper, I study the unintended effect of reforms resulting in increased cohort size and its subsequent impact on performance at the end of high school and the college education market. 
 
 I obtained my Bachelor's degree at the University of Ghana (Summa cum laude)
 

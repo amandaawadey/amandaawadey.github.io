@@ -14,6 +14,6 @@ description = ""
 
 The Intended and Unintended Effects of an Additional Year in Senior High School
 Ongoing, Columbia University
- In this paper, I investigate the effects of an additional year in high schools on performance in the short term, and for college bound students, any persistent effects. This contributes to understanding the mechanisms of the established relationship between education and labor outcomes. Furthermore, changing the duration of senior high schools may have unintended impacts especially in environments where schooling is not free. In this study, I further explore potential unintended effects along with heterogenous impacts by socio-economic status and gender.
+ Existing evidence posits that an additional year of schooling increases human capital on average. However, the extra year of education is usually associated with an increased breadth of the curriculum. In this paper, I investigate the effects of an additional year which increased the duration without a change in the curriculum. Particularly, the impact on performance in the short term and for college-bound students, any persistent effects. In addition, in a setting where high school costs are borne by students and their families, increasing the duration of high school may have unintended impacts because of the increased financial burden. In this study, I explore potential unintended effects on high school graduation rates and heterogenous results by socioeconomic status and gender.
 
 
