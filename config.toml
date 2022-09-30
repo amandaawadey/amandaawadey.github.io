@@ -92,7 +92,6 @@ weight = 16
 identifier = "JMP" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "https://drive.google.com/file/d/1tDHJziyGIWnNjA0Hhgpn4SBSxkFj8UP-/view?usp=sharing" 
->>>>>>> parent of e10ea26 (cv and abstract update)
 weight = 25 
 
 [[menu.main]]
