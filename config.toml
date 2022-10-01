@@ -79,7 +79,7 @@ weight = 10
 [[menu.main]]
 identifier = "CV" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "https://drive.google.com/file/d/1zfBzCun-KH6xp61AVJPdnkTjcaXdC_WF/view?usp=sharing" 
+url = "https://drive.google.com/file/d/1rMti2O-B4uZcSPBdULnF2rPj3zkPCwc2/view?usp=sharing" 
 weight = 14 
 
 [[menu.main]]
@@ -91,9 +91,9 @@ weight = 16
 [[menu.main]]
 identifier = "JMP" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "https://drive.google.com/file/d/1zI3mQukOhSEfswe-pke1ajMIZz6uUlo8/view?usp=sharing" 
+url = "https://drive.google.com/file/d/13CpyDwnZRSLfKT0a8Tu4-a8Zgx38LI5N/view?usp=sharing" 
 weight = 25 
-
+# COMMENT
  
 [[menu.main]]
 identifier = "about" # identifier is use for translations
